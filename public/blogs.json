@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "How to get your first job as a self-taught programmer",
+      "cover": "../src/assets/images/1.jpg",
+      "author": "John Doe",
+      "author_img": "../src/assets/images/boy1.png",
+      "posted_date": "September 15, 2023",
+      "reading_time": 12,
+      "hashtags": ["Adventure", "Mystery", "Exploration"]
+    },
+    {
+      "id": 2,
+      "title": "How to get your first job as a self-taught programmer",
+      "cover": "../src/assets/images/2.png",
+      "author": "Jane Smith",
+      "author_img": "../src/assets/images/boy2.png",
+      "posted_date": "September 14, 2023",
+      "reading_time": 8,
+      "hashtags": ["Science", "Space", "Astronomy"]
+    },
+    {
+      "id": 3,
+      "title": "How to get your first job as a self-taught programmer",
+      "cover": "../src/assets/images/3.png",
+      "author": "Alex Johnson",
+      "author_img": "../src/assets/images/girl1.jpg",
+      "posted_date": "September 13, 2023",
+      "reading_time": 10,
+      "hashtags": ["Adventure", "Nature", "Exploration"]
+    },
+    {
+      "id": 4,
+      "title": "How to get your first job as a self-taught programmer",
+      "cover": "../src/assets/images/4.jpg",
+      "author": "Emily Brown",
+      "author_img": "../src/assets/images/girl2.jpg",
+      "posted_date": "September 12, 2023",
+      "reading_time": 6,
+      "hashtags": ["Cooking", "Culinary", "Recipes"]
+    }
+  ]
+  
+  
